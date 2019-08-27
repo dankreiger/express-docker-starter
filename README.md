@@ -24,7 +24,7 @@ e.g.
 docker run -p 8080:8080 dockerusername/projectname
 ```
 
-### start a shell session in another terminal
+### start a shell session in docker container
 
 ```sh
 docker exec -it CONTAINER_ID sh
